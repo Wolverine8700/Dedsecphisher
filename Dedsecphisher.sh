@@ -155,12 +155,12 @@ banner() {
 	cat <<- EOF
 		${ORANGE}
 		${ORANGE}    
-		${ORANGE}                 𝔻𝕖𝕕𝕤𝕖𝕔
+		${ORANGE}              𝔻𝕖𝕕𝕤𝕖𝕔
 		${ORANGE} 
 		${ORANGE}                      
-		${ORANGE}                   ${RED}Version : 1.0
+		${ORANGE}        ${RED}Version : 1.0
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Dedsec (Raj Barot )${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Dedsec ( Raj Barot )${WHITE}
 	EOF
 }
 
