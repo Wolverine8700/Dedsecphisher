@@ -155,7 +155,7 @@ banner() {
 	cat <<- EOF
 		${ORANGE}
 		${ORANGE}    
-		${ORANGE}                            𝔻𝕖𝕕𝕤𝕖𝕔
+		${ORANGE}                 𝔻𝕖𝕕𝕤𝕖𝕔
 		${ORANGE} 
 		${ORANGE}                      
 		${ORANGE}                   ${RED}Version : 1.0
